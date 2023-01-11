@@ -1,0 +1,1 @@
+console.log("Esta es otra forma de trabajar");
